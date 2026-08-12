@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0D1B2A?style=for-the-badge\&logo=linkedin\&logoColor=9FD8E5)](SEU_LINK_LINKEDIN)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-0D1B2A?style=for-the-badge\&logo=googlechrome\&logoColor=9FD8E5)](SEU_LINK_PORTFOLIO)
 [![Poesia](https://img.shields.io/badge/Poesia-Instagram-0D1B2A?style=for-the-badge\&logo=instagram\&logoColor=D6A96A)]([SEU_LINK_INSTAGRAM](https://www.instagram.com/cafe.com.ansiedade))
-[![Livro](https://img.shields.io/badge/📖_Memórias_de_Aurora-Amazon-0D1B2A?style=for-the-badge\&logo=amazon\&logoColor=D6A96A)]([SEU_LINK_AMAZON](https://www.amazon.com.br/dp/B0GWZYN1J7))
+[![Livro](https://img.shields.io/badge/📖_Memórias_de_Aurora-Amazon-0D1B2A?style=for-the-badge\&logo=amazon\&logoColor=D6A96A)]([(https://www.amazon.com.br/dp/B0GWZYN1J7)])
 
 </div>
 
