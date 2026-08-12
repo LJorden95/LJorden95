@@ -16,10 +16,25 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0D1B2A?style=for-the-badge\&logo=linkedin\&logoColor=9FD8E5)](SEU_LINK_LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-0D1B2A?style=for-the-badge\&logo=googlechrome\&logoColor=9FD8E5)](SEU_LINK_PORTFOLIO)
-[![Poesia](https://img.shields.io/badge/Poesia-Instagram-0D1B2A?style=for-the-badge\&logo=instagram\&logoColor=D6A96A)](https://www.instagram.com/cafe.com.ansiedade)
-[![Livro](https://img.shields.io/badge/📖_Memórias_de_Aurora-Amazon-0D1B2A?style=for-the-badge\&logo=amazon\&logoColor=D6A96A)]((https://www.amazon.com.br/dp/B0GWZYN1J7))
+<a href="https://www.linkedin.com/in/lucasjorden/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=9FD8E5" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/LJorden95">
+<img src="https://img.shields.io/badge/GitHub-LJorden95-0D1B2A?style=for-the-badge&logo=github&logoColor=E8E3D8" alt="GitHub">
+</a>
+
+<a href="https://www.instagram.com/cafe.com.ansiedade">
+<img src="https://img.shields.io/badge/Poesia-Instagram-0D1B2A?style=for-the-badge&logo=instagram&logoColor=D6A96A" alt="Instagram">
+</a>
+
+<a href="https://www.tiktok.com/@cafe.com.ansiedade">
+<img src="https://img.shields.io/badge/Poesia-TikTok-0D1B2A?style=for-the-badge&logo=tiktok&logoColor=E8E3D8" alt="TikTok">
+</a>
+
+<a href="https://www.amazon.com.br/dp/B0GWZYN1J7">
+<img src="https://img.shields.io/badge/📖_Memórias_de_Aurora-Amazon-0D1B2A?style=for-the-badge&logo=amazon&logoColor=D6A96A" alt="Memórias de Aurora na Amazon">
+</a>
 
 </div>
 
@@ -233,11 +248,21 @@ Sou também escritor e poeta, explorando temas como **amor, memória, tempo, ide
 
 <div align="center">
 
-[ 📖 **Conhecer o livro na Amazon** ]([SEU_LINK_AMAZON](https://www.amazon.com.br/dp/B0GWZYN1J7))
+<a href="https://www.amazon.com.br/dp/B0GWZYN1J7">
+📖 <strong>Conhecer o livro na Amazon</strong>
+</a>
 
-[ ✒️ **Poesias no Instagram** ]([SEU_LINK_INSTAGRAM_POESIA](https://www.instagram.com/cafe.com.ansiedade/))
+  ·  
 
-[ 🎬 **Poesias no TikTok** ]([SEU_LINK_TIKTOK_POESIA](https://www.tiktok.com/@cafe.com.ansiedade))
+<a href="https://www.instagram.com/cafe.com.ansiedade">
+✒️ <strong>Poesias no Instagram</strong>
+</a>
+
+  ·  
+
+<a href="https://www.tiktok.com/@cafe.com.ansiedade">
+🎬 <strong>Poesias no TikTok</strong>
+</a>
 
 </div>
 
@@ -281,9 +306,9 @@ Sistemas, ideias e alguns problemas que ainda não existem.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LJorden95&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJorden95&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -291,7 +316,7 @@ Sistemas, ideias e alguns problemas que ainda não existem.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LJorden95&theme=transparent&hide_border=true" />
 
 </div>
 
